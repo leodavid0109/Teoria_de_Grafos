@@ -1,6 +1,6 @@
 # Repositorio de Teoría de Grafos
 
-¡Bienvenido al repositorio de Teoría de Grafos! Este repositorio ha sido creado como parte del desarrollo de tareas y ejercicios de la materia de Teoría de Grafos en [nombre de la institución educativa]. Aquí encontrarás implementaciones, ejemplos y recursos adicionales relacionados con este fascinante campo de las matemáticas discretas y la informática.
+¡Bienvenido al repositorio de Teoría de Grafos! Este repositorio ha sido creado como parte del desarrollo de tareas y ejercicios de la materia de Teoría de Grafos en la Universidad Nacional de Colombia. Aquí encontrarás implementaciones, ejemplos y recursos adicionales relacionados con este fascinante campo de las matemáticas discretas y la informática.
 
 ## Acerca de Teoría de Grafos
 
